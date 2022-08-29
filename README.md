@@ -7,3 +7,6 @@
 ## Instructions:
 
 `bash ./mygrade.sh 95 95 95 95`
+
+<img src="https://github.com/Jonesckevin/mygrade.sh/blob/main/bash%20Script%20Example.PNG?raw=true">
+<img src="https://github.com/Jonesckevin/mygrade.sh/blob/main/bash%20Script%20Example-fail.PNG?raw=true"
