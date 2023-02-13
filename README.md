@@ -1,3 +1,11 @@
+# GitHub Stats
+
+[![GitHub followers](https://img.shields.io/github/followers/JonesCKevin?style=social)](https://github.com/JonesCKevin) 
+[![GitHub stars](https://img.shields.io/github/stars/Jonesckevin/mygrade.sh)](https://github.com/Jonesckevin/mygrade.sh) 
+[![GitHub forks](https://img.shields.io/github/forks/Jonesckevin/mygrade.sh)](https://github.com/Jonesckevin/mygrade.sh) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/Jonesckevin/mygrade.sh)](https://github.com/Jonesckevin/mygrade.sh) 
+
+
 # "My Grade" Bash Script Using Arguments
 
 ### This is a short bash script for adding up grades based on the values of assignments, tests, finals. This could easily expand to include attendance, individual assignments and such.
